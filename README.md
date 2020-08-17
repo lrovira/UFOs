@@ -1,6 +1,6 @@
 # UFOs
 
-## Description
+## The purpose of the project, the technologies used
 In this UFO data set project we are utilizing a filter that is connected to HTML and Java Script functionalities. 
 
 We first obtained the data from the UFO data in a js format which we then created a js function that would translate the data to a table format/ dataframe format. 
