@@ -7,4 +7,4 @@ We first obtained the data from the UFO data in a js format which we then create
 
 We also created a series of filters that would filter all of the information through a table in the html page. In order to achieve this we had to create two new functions, one to create a set of filters that would join together the filters and the values and another one that would run the dictionary utilizing the filters as a condition. 
 
-![Challenge11]https://github.com/lrovira/UFOs/blob/master/images/Challenge11.png
+![Challenge11](https://github.com/lrovira/UFOs/blob/master/images/Challenge11.png)
